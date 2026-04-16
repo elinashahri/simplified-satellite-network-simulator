@@ -6,7 +6,7 @@ This project models time-evolving satellite constellations, inter-satellite link
 
 The simulator is designed as a research-oriented framework for studying dynamic topology effects in large-scale LEO networks.
 
-🚀 Key Features
+Key Features
 
 Dynamic LEO constellation generation based on orbital mechanics
 
@@ -22,7 +22,7 @@ Poisson-based GS-to-GS traffic generation
 
 Multi-timeslot simulation support
 
-🏗 Architecture Overview
+ Architecture Overview
 
 The simulator follows a layered design:
 
@@ -56,7 +56,7 @@ Average delay
 
 Average hop count
 
-📊 Output Metrics
+ Output Metrics
 
 For each simulation time slot, the following metrics are computed:
 
@@ -70,7 +70,7 @@ Average end-to-end delay (seconds)
 
 Average hop count
 
-📌 Project Status
+ Project Status
 
 Status: Ongoing research project.
 
@@ -78,7 +78,7 @@ A journal/conference manuscript based on extended versions of this simulator is 
 
 Advanced physical-layer modeling and adaptive routing extensions will be released after formal publication.
 
-🔭 Future Work
+ Future Work
 
 Planned extensions include:
 
